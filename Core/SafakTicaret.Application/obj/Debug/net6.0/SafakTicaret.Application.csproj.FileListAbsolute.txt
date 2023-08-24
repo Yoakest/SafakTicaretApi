@@ -1,0 +1,75 @@
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\ref\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Core\SafakTicaret.Application\obj\Debug\net6.0\ref\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Debug\net6.0\ref\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\ref\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Core\SafakTicaret.Application\obj\Debug\net6.0\ref\SafakTicaret.Application.dll

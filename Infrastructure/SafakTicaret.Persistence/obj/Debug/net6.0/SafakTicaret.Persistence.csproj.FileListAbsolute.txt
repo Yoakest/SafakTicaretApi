@@ -1,0 +1,95 @@
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.deps.json
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.AssemblyReference.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfoInputs.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfo.cs
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CopyComplete
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\refint\SafakTicaret.Persistence.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\ref\SafakTicaret.Persistence.dll
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.runtimeconfig.json
+D:\MyProjects\EasyMoney\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.genruntimeconfig.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.runtimeconfig.json
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\refint\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.genruntimeconfig.cache
+D:\MyProjects\SafakTicaret\SafakTicaret\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\ref\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.runtimeconfig.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\refint\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.genruntimeconfig.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\ref\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.runtimeconfig.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\refint\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.genruntimeconfig.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\ref\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.runtimeconfig.json
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\bin\Debug\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\refint\SafakTicaret.Persistence.dll
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.pdb
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\SafakTicaret.Persistence.genruntimeconfig.cache
+D:\MyProjects\SafakTicaret\SafakTicaretProje\SafakTicaretApi\Infrastructure\SafakTicaret.Persistence\obj\Debug\net6.0\ref\SafakTicaret.Persistence.dll

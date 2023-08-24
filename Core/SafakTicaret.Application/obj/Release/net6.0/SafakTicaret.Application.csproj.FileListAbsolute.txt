@@ -1,0 +1,15 @@
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Release\net6.0\SafakTicaret.Application.deps.json
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Release\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Release\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Release\net6.0\SafakTicaret.Domain.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\bin\Release\net6.0\SafakTicaret.Domain.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.csproj.AssemblyReference.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.AssemblyInfoInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.AssemblyInfo.cs
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.csproj.CoreCompileInputs.cache
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.csproj.CopyComplete
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\refint\SafakTicaret.Application.dll
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\SafakTicaret.Application.pdb
+D:\MyProjects\SafakTicaret\SafakTicaret Proje\Core\SafakTicaret.Application\obj\Release\net6.0\ref\SafakTicaret.Application.dll

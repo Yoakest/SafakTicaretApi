@@ -1,0 +1,45 @@
+﻿namespace SafakTicaret.Infrastructure.StaticServices
+{
+	public static class NameOperations
+	{
+		public static string CharacterRegulatory(string name)
+			=> name
+			.Replace("Ğ", "G")
+			.Replace("ğ", "g")
+			.Replace("Ş", "S")
+			.Replace("ş", "s")
+			.Replace("İ", "I")
+			.Replace("ı", "i")
+			.Replace("Ü", "U")
+			.Replace("ü", "u")
+			.Replace("Ö", "O")
+			.Replace("ö", "o")
+			.Replace("Ç", "C")
+			.Replace("ç", "c")
+			.Replace(" ", "-")
+			.Replace("â", "a")
+			.Replace("Â", "A")
+			.Replace("ß", "")
+			.Replace("€", "")
+			.Replace("æ", "")
+			.Replace("$", "")
+			.Replace("£", "")
+			.Replace("/", "-")
+			.Replace("(", "")
+			.Replace(")", "")
+			.Replace("<", "-")
+			.Replace(">", "-")
+			.Replace("\"", "-")
+			.Replace("=", "-")
+			.Replace("\\", "-")
+			.Replace(":", "-")
+			.Replace(".", "-")
+			.Replace(";", "-")
+			.Replace("@", "")
+			.Replace("´", "")
+			.Replace("`", "")
+			.Replace("¨", "")
+			.Replace("~", "")
+			.Replace("|", "-");
+	}
+}

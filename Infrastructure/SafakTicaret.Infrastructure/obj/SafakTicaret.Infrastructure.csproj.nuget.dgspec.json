@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Infrastructure\\SafakTicaret.Infrastructure\\SafakTicaret.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\SafakTicaret.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\SafakTicaret.Application.csproj",
+        "projectName": "SafakTicaret.Application",
+        "projectPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\SafakTicaret.Application.csproj",
+        "packagesPath": "C:\\Users\\Yoake\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\SafakTicaret.Domain.csproj": {
+                "projectPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\SafakTicaret.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\SafakTicaret.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\SafakTicaret.Domain.csproj",
+        "projectName": "SafakTicaret.Domain",
+        "projectPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\SafakTicaret.Domain.csproj",
+        "packagesPath": "C:\\Users\\Yoake\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Infrastructure\\SafakTicaret.Infrastructure\\SafakTicaret.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Infrastructure\\SafakTicaret.Infrastructure\\SafakTicaret.Infrastructure.csproj",
+        "projectName": "SafakTicaret.Infrastructure",
+        "projectPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Infrastructure\\SafakTicaret.Infrastructure\\SafakTicaret.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Yoake\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Infrastructure\\SafakTicaret.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Yoake\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\SafakTicaret.Application.csproj": {
+                "projectPath": "D:\\MyProjects\\SafakTicaret\\SafakTicaretProje\\SafakTicaretApi\\Core\\SafakTicaret.Application\\SafakTicaret.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.16.0, )"
+            },
+            "FluentEmail.Mailgun": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\anantachai-saothong-0DKDTSFBXc8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\anantachai-saothong-0DKDTSFBXc8-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\champs-elysees001.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\champs-elysees001.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\delete (1).png",
+      "PackagePath": "staticwebassets\\resource\\files\\delete (1).png"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\delete.png",
+      "PackagePath": "staticwebassets\\resource\\files\\delete.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\edit.png",
+      "PackagePath": "staticwebassets\\resource\\files\\edit.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\eedit.png",
+      "PackagePath": "staticwebassets\\resource\\files\\eedit.png"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\flowdzine-creativity-tPv0X5MX-ak-unsplash.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\flowdzine-creativity-tPv0X5MX-ak-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\norbert-braun-Wf6K4YvZYcc-unsplash.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\norbert-braun-Wf6K4YvZYcc-unsplash.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\pexels-kris-schulze-145847.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\pexels-kris-schulze-145847.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\pexels-pixabay-2344.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\pexels-pixabay-2344.jpg"
+    },
+    {
+      "Id": "D:\\MyProjects\\SafakTicaret\\SafakTicaret Proje\\Precentation\\SafakTicaret.API\\wwwroot\\resource\\files\\unnamed.jpg",
+      "PackagePath": "staticwebassets\\resource\\files\\unnamed.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\linux-x64\\staticwebassets\\msbuild.SafakTicaret.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\linux-x64\\staticwebassets\\msbuild.build.SafakTicaret.API.props",
+      "PackagePath": "build\\SafakTicaret.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\linux-x64\\staticwebassets\\msbuild.buildMultiTargeting.SafakTicaret.API.props",
+      "PackagePath": "buildMultiTargeting\\SafakTicaret.API.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\linux-x64\\staticwebassets\\msbuild.buildTransitive.SafakTicaret.API.props",
+      "PackagePath": "buildTransitive\\SafakTicaret.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

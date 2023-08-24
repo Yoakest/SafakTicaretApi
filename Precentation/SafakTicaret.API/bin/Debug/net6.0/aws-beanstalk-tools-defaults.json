@@ -1,0 +1,20 @@
+
+{
+    "region" : "eu-central-1",
+    "configuration" : "Debug",
+    "framework"     : "net6.0",
+    "self-contained" : false,
+    "application"    : "SafakTicaretAPI",
+    "environment"    : "SafakTicaretAPI-test",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0e0c274fde418ea03\";\"aws:ec2:vpc,Subnets\"=\"subnet-058f3352d222d4642\"",
+    "solution-stack"       : "64bit Amazon Linux 2 v2.5.6 running .NET Core",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "safakticaret",
+    "instance-type"        : "t3a.micro",
+    "key-pair"             : "safakticaret",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role",
+    "proxy-server"         : "nginx"
+}
