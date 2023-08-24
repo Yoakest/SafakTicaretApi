@@ -2,6 +2,9 @@ Merhaba,
 
 Bu projemde, öğrendiklerimi kullanarak yapabileceklerimi test etmek, yeni şeyler öğrenmek, kendimi geliştirmek ve yapabileceklerimi gösterebilmesi için ortaya koyduğum bir proje oldu.
 
+Projenin Frontend dosyaları;
+https://github.com/Yoakest/SafakTicaretAngular
+
 Onion Architecture ile Tasarım;
   Projeyi, Onion Architecture prensipleri doğrultusunda tasarladım. Bu yaklaşım, uygulamanın katmanlarını mantıklı bir şekilde düzenlerken, dışarıdan gelebilecek etkilere karşı da koruma sağlar. Temelde iç içe geçmiş katmanlardan oluşan bir yapı oluşturarak, bağımlılıkların yönetimini kolaylaştırır ve sürdürülebilir bir kod tabanı oluşturur.
 
@@ -16,10 +19,9 @@ CQRS Pattern ile İstek İşlemleri;
 
 Role ile Yetki Sistemi;
   Projede rol tabanlı yetki sistemi kullanarak, farklı kullanıcı gruplarına farklı yetkiler atayabiliyorum. Bu sayede, kullanıcılar sadece kendi yetkilerine uygun işlemleri gerçekleştirebiliyorlar. Bu, güvenliği artırdı ve veri gizliliğini kordu. Adminler, moderatörler ve kullanıcılar gibi farklı roller farklı yetkilere sahip olabilir. Ayrıca istediğiniz yeni farklı özellikteki rolleri oluşturabililrsiniz.
-  <br><br><br>
-Projenin Frontend dosyaları;
-https://github.com/Yoakest/SafakTicaretAngular
-<br><br><br>
+
+
+
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-1.png" width="45%"></img>
 
 Projenin Temel Özellikleri:
