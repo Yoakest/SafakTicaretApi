@@ -3,23 +3,19 @@ Merhaba,
 Bu projemde, öğrendiklerimi kullanarak yapabileceklerimi test etmek, yeni şeyler öğrenmek, kendimi geliştirmek ve yapabileceklerimi gösterebilmesi için ortaya koyduğum bir proje oldu.
 
 Onion Architecture ile Tasarım:
-Projeyi, Onion Architecture prensipleri doğrultusunda tasarladım. Bu yaklaşım, uygulamanın katmanlarını mantıklı bir şekilde düzenlerken, dışarıdan gelebilecek etkilere karşı da koruma sağlar. Temelde iç içe geçmiş katmanlardan oluşan bir yapı oluşturarak, bağımlılıkların yönetimini kolaylaştırır ve sürdürülebilir bir kod tabanı oluşturur.
+  Projeyi, Onion Architecture prensipleri doğrultusunda tasarladım. Bu yaklaşım, uygulamanın katmanlarını mantıklı bir şekilde düzenlerken, dışarıdan gelebilecek etkilere karşı da koruma sağlar. Temelde iç içe geçmiş katmanlardan oluşan bir yapı oluşturarak, bağımlılıkların yönetimini kolaylaştırır ve sürdürülebilir bir kod tabanı oluşturur.
 
 SignalR ile Bilgi İletimi:
-
-SignalR, gerçek zamanlı iletişim sağlamak için kullandığınız bir kütüphanedir. Bu projede SignalR'i kullanarak kullanıcılara gerçek zamanlı bilgi akışı sağladım. Örneğin, bir kullanıcı yeni bir sipariş tamamlandığında, moderatörler hemen bu güncellemeleri alır. Bu, kullanıcı deneyimini canlandırır ve etkileşimi artırır.
+  SignalR, gerçek zamanlı iletişim sağlamak için kullandığınız bir kütüphanedir. Bu projede SignalR'i kullanarak kullanıcılara gerçek zamanlı bilgi akışı sağladım. Örneğin, bir kullanıcı yeni bir sipariş tamamlandığında, moderatörler hemen bu güncellemeleri alır. Bu, kullanıcı deneyimini canlandırır ve etkileşimi artırır.
 
 Log Sistemi ile İşlem Kayıtları:
-
-Projede log sistemi kullanarak, yapılan işlemler hakkında detaylı kayıtlar tutuyorum. Bu kayıtlar, sistemin performansını, hataları ve işlem geçmişini izlememe yardımcı olur. Loglar aynı zamanda sorun giderme ve analiz süreçlerinde de son derece faydalıdır.
+  Projede log sistemi kullanarak, yapılan işlemler hakkında detaylı kayıtlar tutuyorum. Bu kayıtlar, sistemin performansını, hataları ve işlem geçmişini izlememe yardımcı olur. Loglar aynı zamanda sorun giderme ve analiz süreçlerinde de son derece faydalıdır.
 
 CQRS Pattern ile İstek İşlemleri:
-
-CQRS (Command Query Responsibility Segregation) deseni sayesinde, okuma ve yazma işlemlerini ayrı ayrı ele alabiliyorum. Bu yaklaşım, uygulamanın daha ölçeklenebilir ve optimize edilebilir olmasını sağladı.
+  CQRS (Command Query Responsibility Segregation) deseni sayesinde, okuma ve yazma işlemlerini ayrı ayrı ele alabiliyorum. Bu yaklaşım, uygulamanın daha ölçeklenebilir ve optimize edilebilir olmasını sağladı.
 
 Role ile Yetki Sistemi:
-
-Projede rol tabanlı yetki sistemi kullanarak, farklı kullanıcı gruplarına farklı yetkiler atayabiliyorum. Bu sayede, kullanıcılar sadece kendi yetkilerine uygun işlemleri gerçekleştirebiliyorlar. Bu, güvenliği artırdı ve veri gizliliğini kordu. Adminler, moderatörler ve kullanıcılar gibi farklı roller farklı yetkilere sahip olabilir. Ayrıca istediğiniz yeni farklı özellikteki rolleri oluşturabililrsiniz.
+  Projede rol tabanlı yetki sistemi kullanarak, farklı kullanıcı gruplarına farklı yetkiler atayabiliyorum. Bu sayede, kullanıcılar sadece kendi yetkilerine uygun işlemleri gerçekleştirebiliyorlar. Bu, güvenliği artırdı ve veri gizliliğini kordu. Adminler, moderatörler ve kullanıcılar gibi farklı roller farklı yetkilere sahip olabilir. Ayrıca istediğiniz yeni farklı özellikteki rolleri oluşturabililrsiniz.
 
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-1.png" width="45%"></img>
 
