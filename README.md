@@ -17,6 +17,12 @@ CQRS Pattern ile İstek İşlemleri;
 Role ile Yetki Sistemi;
   Projede rol tabanlı yetki sistemi kullanarak, farklı kullanıcı gruplarına farklı yetkiler atayabiliyorum. Bu sayede, kullanıcılar sadece kendi yetkilerine uygun işlemleri gerçekleştirebiliyorlar. Bu, güvenliği artırdı ve veri gizliliğini kordu. Adminler, moderatörler ve kullanıcılar gibi farklı roller farklı yetkilere sahip olabilir. Ayrıca istediğiniz yeni farklı özellikteki rolleri oluşturabililrsiniz.
 
+
+Projenin Frontend dosyaları;
+https://github.com/Yoakest/SafakTicaretAngular
+
+  
+
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-1.png" width="45%"></img>
 
 Projenin Temel Özellikleri:
