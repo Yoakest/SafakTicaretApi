@@ -50,8 +50,8 @@ Moderatörler, yeni ürünleri sisteme ekleyebilir ve ürünlere görseller ekle
 6. Admin Kontrolü:
 Adminler, farklı roller oluşturabilir ve bu rolleri kullanıcı profillerine atayabilirler. Bu sayede sistemdeki kullanıcıların yetkilendirilmesi ve yönetimi daha esnek hale getirilir.
 
-<img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-9.png" width="45%"></img>
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-8.png" width="45%"></img>
+<img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-9.png" width="45%"></img>
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-7.png" width="45%"></img>
 
 
@@ -61,6 +61,7 @@ Projeyi, backend tarafında ASP.NET ve C# programlama dili kullanarak geliştird
 Projem, hem kullanıcıların hem de yöneticilerin ihtiyaçlarını karşılayan kapsamlı bir çözüm sunmayı hedeflediği için benim için büyük bir gurur kaynağı. Kullanıcı dostu arayüzü, güvenlik önlemleri ve yönetici yetenekleri ile alışveriş deneyimini daha kolay ve keyifli hale getirmeyi amaçlayan bu projem, e-ticaret sektöründe önemli bir boşluğu doldurmayı hedefliyor.
 
 Eğer projem hakkında daha fazla bilgi edinmek veya bir görüşme ayarlamak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin.
+
 
 Saygılarımla,
 Şafak Tomrukcu
