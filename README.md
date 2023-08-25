@@ -50,8 +50,8 @@ Moderatörler, yeni ürünleri sisteme ekleyebilir ve ürünlere görseller ekle
 6. Admin Kontrolü:
 Adminler, farklı roller oluşturabilir ve bu rolleri kullanıcı profillerine atayabilirler. Bu sayede sistemdeki kullanıcıların yetkilendirilmesi ve yönetimi daha esnek hale getirilir.
 
-<img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-8.png" width="45%"></img>
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-9.png" width="45%"></img>
+<img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-8.png" width="45%"></img>
 <img src="https://github.com/Yoakest/SafakTicaretApi/blob/main/Promo-images/st-7.png" width="45%"></img>
 
 
