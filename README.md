@@ -1,6 +1,6 @@
 Merhaba,
 
-Bu projemde, öğrendiklerimi kullanarak yapabileceklerimi test etmek, yeni şeyler öğrenmek, kendimi geliştirmek ve yapabileceklerimi gösterebilmesi için ortaya koyduğum bir proje oldu.
+Bu projemde, öğrendiklerimi kullanarak yapabileceklerimi test etmek, yeni şeyler öğrenmek, kendimi geliştirmek ve yapabileceklerimi gösterebilmesi için ortaya koyduğum bir örnek bir çalışmadır.
 
 Projenin Frontend dosyaları;
 https://github.com/Yoakest/SafakTicaretAngular
